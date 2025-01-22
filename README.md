@@ -1,6 +1,6 @@
 ### Hello there! 👋👋👋
 
-I’m Nick Baranov, BMSTU 3rd grade bachelor student (ICS7 + DC Web developer course)
+I’m Nick Baranov, BMSTU 3rd grade bachelor student (IU7 + DC Web developer course)
 
 Skills: [![My Skills](https://skillicons.dev/icons?i=java,c,cpp,python,go,spring,sqlite,postgres&theme=dark)](https://skillicons.dev)
 
